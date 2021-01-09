@@ -1,0 +1,5 @@
+name: SnowBall
+version: ${project.version}
+main: justsiri.sb.snowball.SnowBall
+api-version: 1.16
+description: snowball game plugin
